@@ -86,10 +86,10 @@ raingen<-function(data,nyears,mode=0,cc.vec=0,bias=0,sound=F,
   frm.wet<-models$wet
   frm.amount<-models$amount
   
-  library(beepr)
-  library(VGAM)
-  library(zoo)
-  library(fitdistrplus)
+  require(beepr)
+  require(VGAM)
+  require(zoo)
+  require(fitdistrplus)
   
   options(warn=-1)
   

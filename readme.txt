@@ -38,5 +38,7 @@ A short "how to use":
 
 11. save your generated data (raingen.list$gen.data)
 
+Note: "one.function.R" combines all functions of the generator in a single one.
+
 In case of any questions or comments please don not hesitate writing me: maik.billing@gmx.de
 Thank you!

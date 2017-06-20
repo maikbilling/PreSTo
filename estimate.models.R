@@ -65,10 +65,10 @@ estimate.models<-function(data){
   }
 
   
-  library(VGAM)
-  library(zoo)
-  library(fitdistrplus)
-  library(MASS)
+  require(VGAM)
+  require(zoo)
+  require(fitdistrplus)
+  require(MASS)
   
   options(warn=-1)
   

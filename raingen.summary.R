@@ -15,7 +15,7 @@
 
 raingen.summary<-function(raingen){
   
-  library(ggplot2)
+  require(ggplot2)
   
   col.historical<-"white"
   col.generated<-"darkseagreen3"

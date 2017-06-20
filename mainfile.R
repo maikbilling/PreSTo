@@ -19,7 +19,6 @@ rm(list=ls())# delete everything in the list
 path<-"C:/Users/S_HK/Documents/Maik/projects/raingenerator/code/final"
 
 setwd(path)
-source("load.data.R")
 source("raingen.R")
 source("raingen.summary.R")
 source("estimate.models.R")
